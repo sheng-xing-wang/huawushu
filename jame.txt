@@ -1,2 +1,2 @@
 def fun():
-    print("lihuaa")
+    print("liliu溜溜aa")
